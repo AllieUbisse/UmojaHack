@@ -1,0 +1,14 @@
+tqdm
+jupyter_nbextensions_configurator
+jupyter_contrib_nbextensions
+scikit-optimize
+imbalanced-learn
+category_encoders
+jupyter
+jupyterlab
+numpy
+pandas
+scikit-learn
+seaborn
+pyarrow
+
